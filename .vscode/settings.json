@@ -1,0 +1,7 @@
+{
+  "python.pythonPath": "/Users/hao/Desktop/defi-data/venv/bin/python3.7",
+  "[python]": {
+    "editor.formatOnSave": false,
+    "editor.tabSize": 4
+  }
+}
